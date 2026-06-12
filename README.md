@@ -432,6 +432,15 @@ AR-Vision-Link/
 
 # 執行方式
 
+## 瀏覽器
+
+```bash
+https://b1229049.github.io/ar-vision-link/
+```
+只是有時候太久沒更新會被supabase鎖住資料庫，但凡資料庫有問題不外乎就是太就沒人用
+
+---
+
 ## Frontend
 
 ```bash
